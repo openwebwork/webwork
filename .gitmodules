@@ -1,0 +1,15 @@
+[submodule "admintools"]
+	path = admintools
+	url = git://github.com/openwebwork/admintools.git
+[submodule "webwork2"]
+	path = webwork2
+	url = git://github.com/openwebwork/webwork2.git
+[submodule "wwmoodle"]
+	path = wwmoodle
+	url = git://github.com/openwebwork/wwmoodle.git
+[submodule "ww_question_server"]
+	path = ww_question_server
+	url = git://github.com/openwebwork/ww_question_server.git
+[submodule "pg"]
+	path = pg
+	url = git://github.com/openwebwork/pg.git
